@@ -1,8 +1,0 @@
-Pylens
-Python code for modelling strong gravitational lenses. T. Collett & M. Auger (IoA, Cambridge)
-
-To install the fortran codes run:
-f2py -c -m powerlaw powerlaw.f
-
-
-
