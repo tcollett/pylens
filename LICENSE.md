@@ -1,1 +1,1 @@
-pylens is released for any non-commercial use.
+Pylens is released for any non-commercial use.
