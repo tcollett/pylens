@@ -1,0 +1,1 @@
+pylens is released for any non-commercial use.
